@@ -1,0 +1,8 @@
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/exampleED.dir
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/ED.dir
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/edit_cache.dir
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/rebuild_cache.dir
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/list_install_components.dir
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/install.dir
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/install/local.dir
+/home/mediosdigitales/Descargas/session1_start/build/CMakeFiles/install/strip.dir
